@@ -13,4 +13,4 @@ https://docs.expo.dev/
 
 https://docs.expo.dev/versions/latest/sdk/camera/
 
-if running on web, check that if node version 16 or under
+running on web doesnt work
